@@ -3,7 +3,7 @@ import resumePDF from '../../assets/resume.pdf';
 
 function About() {
   const stats = [
-    { label: 'Years Experience', value: '3+' },
+    { label: 'Years Experience', value: '4+' },
     { label: 'Projects Completed', value: '20+' },
     { label: 'Technologies', value: '15+' },
     { label: 'Client Satisfaction', value: '100%' },
