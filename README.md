@@ -4,7 +4,8 @@ Welcome to my personal portfolio website repository! This website showcases my p
 
 ## Live Demo
 
-[Visit My Portfolio]
+[Visit My Portfolio](https://prabishkhanal.github.io/Portfolio/#home)
+
 ## Built With
 
 - React.js
@@ -34,7 +35,7 @@ Welcome to my personal portfolio website repository! This website showcases my p
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/prabishkhanal/portfolio.git
    ```
 
 2. Install dependencies
@@ -81,9 +82,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-Prabish Khanal - [Your Email] 
+Email: khanalprabish@gmail.com
 
-Project Link: [https://github.com/your-username/portfolio](https://github.com/your-username/portfolio) 
+Project Link: [https://github.com/prabishkhanal/portfolio](https://github.com/prabishkhanal/portfolio) 
 
 ---
 
