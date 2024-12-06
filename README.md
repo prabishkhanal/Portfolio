@@ -84,7 +84,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Email: khanalprabish@gmail.com
 
-Project Link: [https://github.com/prabishkhanal/portfolio](https://github.com/prabishkhanal/portfolio) 
+Project Link: [https://prabishkhanal.github.io/Portfolio/#home](https://prabishkhanal.github.io/Portfolio/#home) 
 
 ---
 
