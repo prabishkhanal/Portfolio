@@ -4,7 +4,8 @@ Welcome to my personal portfolio website repository! This website showcases my p
 
 ## Live Demo
 
-[Visit My Portfolio]
+[Visit My Portfolio](https://prabishkhanal.github.io/Portfolio/#home)
+
 ## Built With
 
 - React.js
@@ -81,7 +82,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-Prabish Khanal - [Your Email] 
+Email: khanalprabish@gmail.com
 
 Project Link: [https://github.com/your-username/portfolio](https://github.com/your-username/portfolio) 
 
