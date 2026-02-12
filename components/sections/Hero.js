@@ -271,7 +271,7 @@ function Hero() {
                 </motion.div>
 
                 {/* Scroll down indicator */}
-                <motion.div
+                {/* <motion.div
                     className="absolute bottom-8 left-1/2 -translate-x-1/2"
                     initial={{ opacity: 0 }}
                     animate={{ opacity: 1 }}
@@ -288,7 +288,7 @@ function Hero() {
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
                         </svg>
                     </motion.a>
-                </motion.div>
+                </motion.div> */}
             </div>
         </section>
     );
