@@ -1,0 +1,26 @@
+# Prabish Khanal
+
+> Frontend Engineer crafting high-performance web applications.
+
+## About Me
+
+I am an experienced Frontend Engineer with over 5 years of professional experience building scalable, performant, and accessible web applications. I specialize in the modern JavaScript ecosystem, primarily working with Angular, React, Next.js, and Node.js. Based in Kathmandu, Nepal.
+
+## Technical Skills
+
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3/Sass
+- **Frameworks & Libraries:** React.js, Next.js, Angular, Node.js, Express, Tailwind CSS, Framer Motion
+- **Architecture & Ecosystem:** Redux, RxJS, REST APIs, GraphQL, Server-Side Rendering (SSR), Static Site Generation (SSG)
+- **Tools & Platforms:** Git, GitHub, Docker, Vercel, Firebase, AWS
+
+## Professional Philosophy
+
+I focus on writing clean, modular, and maintainable code. My goal is to build user interfaces that are not just visually appealing but also highly performant and accessible to all users. I have a strong background in optimizing web performance (Core Web Vitals) and ensuring a top-tier developer experience within teams.
+
+## Contact & Links
+
+- **Website:** https://prabishkhanal.com.np
+- **Location:** Kathmandu, Nepal
+- **Role:** Frontend Engineer / Software Developer
+
+*This file acts as a plaintext source of truth for AI agents passing through this portfolio.*
